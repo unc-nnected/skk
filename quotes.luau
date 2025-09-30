@@ -1,4 +1,5 @@
 local quotes = {
+	"I hate colloid Bruh",
 	"and no i dont like halloween i just sometimes  think about my costume from 3rd grade and get a little scared",
 	"new t-shirt ok. ok?",
 	"i dont even know how people hack guns into the floor",
